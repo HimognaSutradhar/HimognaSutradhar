@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/saikoharsh/saikoharsh/blob/main/assets/coding.gif" width="350" alt="Coding Animation">
+  <img src="https://github.com/HimognaSutradhar/HimognaSutradhar/blob/main/assets/coding.gif" width="350" alt="Coding Animation">
 </p>
 
 ---
@@ -43,6 +43,12 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/your-link"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sutradharhimogna@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+
+[![Oracle Certified Foundations Associate AI 2025]("C:\Users\sutra\Downloads\OCI25AICFA.jpeg")](https://catalog-education.oracle.com/pls/certview/sharebadge?id=E4E155B7D7B929BC34B5F3A26ACF2FC24D0FE56871DBB6F59843B8525EF6E791)
+
 </p>
 
 ---
